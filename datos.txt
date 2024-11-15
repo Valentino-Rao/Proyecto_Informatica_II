@@ -1,0 +1,12 @@
+Pescado,65.32
+
+Pizza,148.54
+
+Pollo,45.75
+
+PPollo,249.66
+
+Pescado,274.48
+
+Pizza,336.74
+
